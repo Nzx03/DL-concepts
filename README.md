@@ -5,3 +5,8 @@ implementing deep learning concepts
 - broadcasting
 -python numpy vectors
 - Numpy basics
+- pytorch
+   - tensor
+   - autograd
+   - nn module
+   - dataloader
